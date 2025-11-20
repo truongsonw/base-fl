@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\01.Work\\freelance\\base-fl\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D0C9-79D1-4DDB-8D84-A3EEC654FA8C}|Shared.Data\\Shared.Data.csproj|e:\\01.work\\freelance\\base-fl\\backend\\shared.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D0C9-79D1-4DDB-8D84-A3EEC654FA8C}|Shared.Data\\Shared.Data.csproj|solutionrelative:shared.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE3CAA-C05C-459A-B616-FEDBC1ED0A6E}|Api\\Api.csproj|e:\\01.work\\freelance\\base-fl\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE3CAA-C05C-459A-B616-FEDBC1ED0A6E}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D0C9-79D1-4DDB-8D84-A3EEC654FA8C}|Shared.Data\\Shared.Data.csproj|e:\\01.work\\freelance\\base-fl\\backend\\shared.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D0C9-79D1-4DDB-8D84-A3EEC654FA8C}|Shared.Data\\Shared.Data.csproj|solutionrelative:shared.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D0C9-79D1-4DDB-8D84-A3EEC654FA8C}|Shared.Data\\Shared.Data.csproj|e:\\01.work\\freelance\\base-fl\\backend\\shared.data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D0C9-79D1-4DDB-8D84-A3EEC654FA8C}|Shared.Data\\Shared.Data.csproj|solutionrelative:shared.data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F0BC9-24DD-4068-86D4-93A34F81D221}|Shared.Constant\\Shared.Constant.csproj|e:\\01.work\\freelance\\base-fl\\backend\\shared.constant\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F0BC9-24DD-4068-86D4-93A34F81D221}|Shared.Constant\\Shared.Constant.csproj|solutionrelative:shared.constant\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BAA027-9E43-44CF-ACBA-ADE45B4B281D}|Shared.Abstractions\\Shared.Abstractions.csproj|e:\\01.work\\freelance\\base-fl\\backend\\shared.abstractions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BAA027-9E43-44CF-ACBA-ADE45B4B281D}|Shared.Abstractions\\Shared.Abstractions.csproj|solutionrelative:shared.abstractions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\01.Work\\freelance\\base-fl\\backend\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "E:\\01.Work\\freelance\\base-fl\\backend\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:18:30.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Shared.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Shared.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:17:40.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Shared.Data\\UnitOfWork.cs",
+              "ToolTip": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Shared.Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:17:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Abstractions\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared.Abstractions\\Class1.cs",
+              "ToolTip": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Abstractions\\Class1.cs",
+              "RelativeToolTip": "Shared.Abstractions\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:13:44.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Constant\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared.Constant\\Class1.cs",
+              "ToolTip": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Constant\\Class1.cs",
+              "RelativeToolTip": "Shared.Constant\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:12:55.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Data\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Shared.Data\\EfRepository.cs",
+              "ToolTip": "E:\\01.Work\\freelance\\base-fl\\backend\\Shared.Data\\EfRepository.cs",
+              "RelativeToolTip": "Shared.Data\\EfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:10:31.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\bin\Debug\net10.0\Shared.Abstractions.deps.json
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\bin\Debug\net10.0\Shared.Abstractions.dll
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\bin\Debug\net10.0\Shared.Abstractions.pdb
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\Shared.Abstractions.AssemblyInfoInputs.cache
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\Shared.Abstractions.AssemblyInfo.cs
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\Shared.Abstractions.csproj.CoreCompileInputs.cache
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\Shared.Abstractions.sourcelink.json
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\Shared.Abstractions.dll
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\refint\Shared.Abstractions.dll
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\Shared.Abstractions.pdb
+E:\01.Work\freelance\base-fl\backend\Shared.Abstractions\obj\Debug\net10.0\ref\Shared.Abstractions.dll

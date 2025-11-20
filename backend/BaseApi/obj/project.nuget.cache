@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pa2vHmF/jEc=",
+  "success": true,
+  "projectFilePath": "E:\\01.Work\\freelance\\base-fl\\backend\\BaseApi\\BaseApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

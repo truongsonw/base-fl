@@ -1,0 +1,12 @@
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\Shared.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\Shared.Data.AssemblyInfoInputs.cache
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\Shared.Data.AssemblyInfo.cs
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\Shared.Data.csproj.CoreCompileInputs.cache
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\Shared.Data.sourcelink.json
+E:\01.Work\freelance\base-fl\backend\Shared.Data\bin\Debug\net10.0\Shared.Data.deps.json
+E:\01.Work\freelance\base-fl\backend\Shared.Data\bin\Debug\net10.0\Shared.Data.dll
+E:\01.Work\freelance\base-fl\backend\Shared.Data\bin\Debug\net10.0\Shared.Data.pdb
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\Shared.Data.dll
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\refint\Shared.Data.dll
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\Shared.Data.pdb
+E:\01.Work\freelance\base-fl\backend\Shared.Data\obj\Debug\net10.0\ref\Shared.Data.dll
